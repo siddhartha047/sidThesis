@@ -1,0 +1,97 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: MOEABB.aux
+The style file: IEEEtran.bst
+Database file #1: bibliography.bib
+Repeated entry---line 280 of file bibliography.bib
+ : @inproceedings{farina2002optimal
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 362 of file bibliography.bib
+ : @phdthesis{di2006many
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 387 of file bibliography.bib
+ : @inproceedings{kukkonen2007ranking
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 621 of file bibliography.bib
+ : @inproceedings{koppen2005fuzzy
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 650 of file bibliography.bib
+ : @article{zhang2007moea
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 678 of file bibliography.bib
+ : @inproceedings{koppen2003fuzzy
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 696 of file bibliography.bib
+ : @article{yang2013grid
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 732 of file bibliography.bib
+ : @article{wang2013preference
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 753 of file bibliography.bib
+ : @book{miettinen1999nonlinear
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 809 of file bibliography.bib
+ : @article{deb2002fast
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 831 of file bibliography.bib
+ : @misc{zitzler2001spea2
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 858 of file bibliography.bib
+ : @inproceedings{wagner2007pareto
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 875 of file bibliography.bib
+ : @inproceedings{ishibuchi2008effectiveness
+ :                                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 913 of file bibliography.bib
+ : @article{farina2004fuzzy
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 924 of file bibliography.bib
+ :   @inproceedings{5949696
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 935 of file bibliography.bib
+ :   @inproceedings{5949696
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 946 of file bibliography.bib
+ :   @article{he2014fuzzy
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 957 of file bibliography.bib
+ :   @inproceedings{koppen2003fuzzy
+ :                                 ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 997 of file bibliography.bib
+ :   
+ :   year={2002},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.12 (2007/01/11) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in schroder1997multi
+Warning--empty journal in duarte2000accelerating
+Warning--empty journal in dakev1995h
+Warning--missing school in reynolds1997multi
+Warning--empty booktitle in chen2001multi
+Warning--empty year in chen2001multi
+Warning--empty journal in thiele2007preference
+Warning--empty journal in lampinen2001s
+Warning--empty year in lampinen2001s
+Warning--missing publisher in coello2002evolutionary
+Warning--empty year in coello2002evolutionary
+
+Done.
+(There were 19 error messages)
